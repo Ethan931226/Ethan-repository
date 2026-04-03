@@ -19,7 +19,7 @@ import sys
 # 1. 用户配置 (请修改 DEFAULT_ADMIN_PASSWORD)
 # ==============================================================================
 DEFAULT_ADMIN_USERNAME = "admin"
-DEFAULT_ADMIN_PASSWORD = "88889999"
+DEFAULT_ADMIN_PASSWORD = "password"
 USERS_FILE = 'users.json'
 
 # 创建Flask应用
